@@ -1,1 +1,1 @@
-# DesignPatterns
+# org.example.DesignPatterns
